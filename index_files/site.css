@@ -1,0 +1,110 @@
+body 
+{
+    width:100%;
+    background-color:#cbcbcb;
+	background-Image:url("/img_bground_halley_blue_2.png");
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+}
+
+nav {
+    overflow: auto;
+
+}
+
+nav ul
+{
+    margin:0px;
+    padding:0px;
+}
+
+    nav ul li {
+        padding: 5px;
+        float: left;
+        list-style-type: none;
+        margin-bottom: 5px;
+        margin-top: 5px;
+        border-right: solid;
+        border-right-width: 2px;
+        border-color: #ffffff;
+    }
+
+nav ul li a, .body2 a.ui-link {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 24px;
+    font-style: normal;
+}
+
+nav ul li a:active 
+{
+    color: #ffffff;
+}
+
+nav ul li a:hover 
+{
+    background-color: #101d68;
+}
+
+footer {
+    color: #ffffff;
+    padding: 10px;
+}
+
+footer a, footer a:hover 
+{
+    color: #ffffff;
+    
+}
+
+h1 {
+    font-size: 24px;
+    margin: 0px;
+}
+
+h2 {
+    font-size: 18px;
+    margin: 0px;
+}
+
+.panel-heading a, .panel-heading a:hover, .panel-heading a:visited {
+    color: #000000;
+}
+
+.textarea {
+    padding-left: 30px;
+    margin:10px;
+
+}
+
+.panel-collapse.collapse.in .panel-group {
+
+    position: relative;
+    margin-left:30px;
+
+}
+
+
+.bar {
+    background-color: #182da3;
+    position: center;
+    border-radius: 10px;
+    padding-left: 30px;
+    margin: 5px;
+}
+
+#wrapper
+{
+	margin: auto;
+	max-width: 1000px;
+    position: center;
+    
+}
+
+#content
+{
+    margin: 5px;
+	margin-top: 20px;
+	
+}
+
