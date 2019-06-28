@@ -2,7 +2,7 @@ body
 {
     width:100%;
     background-color:#cbcbcb;
-	background-Image:url("/img_bground_halley_blue_2.png");
+	background-Image:url("img_bground_halley_blue_2.png");
 	background-repeat:no-repeat;
 	background-attachment: fixed;
 }
